@@ -5660,14 +5660,14 @@ button.list-group-item-danger.active:focus {
 }
 .panel-default > .panel-heading {
   color: #ffffff;
-  background-color: #303030;
+  background-color: #464545;
   border-color: #464545;
 }
 .panel-default > .panel-heading + .panel-collapse > .panel-body {
   border-top-color: #464545;
 }
 .panel-default > .panel-heading .badge {
-  color: #303030;
+  color: #464545;
   background-color: #ffffff;
 }
 .panel-default > .panel-footer + .panel-collapse > .panel-body {
